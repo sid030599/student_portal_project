@@ -3,4 +3,4 @@
 
 Built using django, bootstrap, mysql, javascript
 some glimpses of our project 
-
+![screenshot of site](https://github.com/sid030599/-blog/blob/main/Screenshot%202022-07-27%20at%208.38.27%20PM.png)
