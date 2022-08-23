@@ -5,3 +5,6 @@
 some glimpses of our project 
 
 ![screenshot of site](https://github.com/sid030599/student_portal_project/blob/main/Screenshot%202022-08-24%20at%2012.30.51%20AM.png)
+![screenshot of site](https://github.com/sid030599/student_portal_project/blob/main/Screenshot%202022-08-24%20at%2012.30.51%20AM.png)
+![screenshot of site](https://github.com/sid030599/student_portal_project/blob/main/Screenshot%202022-08-24%20at%2012.30.51%20AM.png)
+![screenshot of site](https://github.com/sid030599/student_portal_project/blob/main/Screenshot%202022-08-24%20at%2012.30.51%20AM.png)
